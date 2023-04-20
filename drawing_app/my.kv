@@ -1,0 +1,41 @@
+<DrawerEditor>:
+    # Ajouter un bgc a l'element
+    canvas.before:
+        Color:
+            rgba: 0, 0, 0, 255
+        Rectangle:
+            size: self.size
+            pos: self.pos
+    size_hint: (0.6,1)
+
+<Setting>:
+    canvas.before:
+        Color:
+            rgba: 90, 95, 94, 0.5
+        Rectangle:
+            size: self.size
+            pos: self.pos
+    size_hint: (0.4,1)
+    BoxLayout: 
+        orientation: "vertical"
+    
+    
+
+
+    
+<EditRGBA>:
+    size_hint: (0.8,0.4)
+
+<EditWidth>:
+    size_hint: (0.8,0.2)
+
+<Erase>
+    size_hint: (0.8,0.2)
+<Clear>
+    size_hint: (0.8,0.2)
+
+<MyInterface>:
+    size_hint: (1,1)
+
+        
+        
