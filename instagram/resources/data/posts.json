@@ -1,0 +1,34 @@
+{
+    "lorem_ip":{
+        "avatar" : "resources/img/pic1.png",
+        "post" : "resources/img/post.jpg",
+        "caption" : "Some caption",
+        "likes" : "1000",
+        "posted_ago" : "1 hours", 
+        "comments" : "200"
+    },
+    "ronda_rosie":{
+        "avatar" : "resources/img/pic2.png",
+        "post" : "resources/img/post5.jpg",
+        "caption" : "Hihi",
+        "likes" : "1200",
+        "posted_ago" : "10 hours", 
+        "comments" : "50"
+    },
+    "vic_crazy":{
+        "avatar" : "resources/img/pic3.png",
+        "post" : "resources/img/post3.jpg",
+        "caption" : "uwu",
+        "likes" : "6000",
+        "posted_ago" : "1 hours 30", 
+        "comments" : "1000"
+    },
+    "unknow":{
+        "avatar" : "resources/img/pic4.png",
+        "post" : "resources/img/post3.jpg",
+        "caption" : "Hello world",
+        "likes" : "1000",
+        "posted_ago" : "1 hours", 
+        "comments" : "200"
+    }
+}
